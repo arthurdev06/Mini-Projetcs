@@ -15,7 +15,7 @@ function twoDigits(digit){
 
 function start(){
     watch()
-    interval= setInterval(watch,10)
+    interval= setInterval(watch,1000)
 
 
 }
